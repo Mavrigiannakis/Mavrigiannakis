@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development and Cybersecurity Projects:</h2>
 
+- <b> 🪪 Cybersecurity</b>
+  - [Internal Security Audit](https://github.com/Mavrigiannakis/Internal-Security-Audit)
+
 - <b> 🎮 Games in CSS, HTML AND JAVASCRIPT</b>
   - [Baloon game](https://github.com/Mavrigiannakis/Games-and-projects/tree/main/Balloon%20game)
   - [Memory Game](https://github.com/Mavrigiannakis/Games-and-projects/tree/main/muistipeli)
