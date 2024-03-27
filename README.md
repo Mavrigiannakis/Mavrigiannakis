@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stelios! <br/><a href="https://github.com/Mavrigiannakis">Software Developer</a>, <a href="https://www.linkedin.com/in/stylianos-erkki-m-636664283/">Cybersecurity Professional</a>
+<h1>Hi, I'm Stelios! <br/><a href="https://github.com/Mavrigiannakis">Software Developer</a>, <a href="https://www.linkedin.com/in/stylianos-erkki-m-636664283/">Cybersecurity (Soon to be)Professional</a>
 
 <h2>👨‍💻 Software Development and Cybersecurity Projects:</h2>
 
