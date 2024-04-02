@@ -33,7 +33,7 @@
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/britzolaras/?igsh=MXVmcmtlMDA2Z2xkdA%3D%3D
+[instagram]: https://www.instagram.com/britzolaras/
 [linkedin]: https://www.linkedin.com/in/stylianos-erkki-m-636664283/
 
 <!--
